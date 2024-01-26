@@ -14,4 +14,4 @@ eVQUICK is an android app development project that aims to provide the users wit
 This project is a team effort by a group of 3 students from Bennett University. The team members are:
 #### Shivangi Tripathi - [Github](https://github.com/ShiviTripathi13) | [Linkedin](https://www.linkedin.com/in/shivangi-tripathi-bu/)
 #### Harshita - [Github]() | [Linkedin](https://www.linkedin.com/in/harshita-sharma-2a40ab25b/)
-#### Divyanshi Singh - [Github]() | [Linkedin]()
+#### Divyanshi Singh - [Github](https://github.com/DivyanshiSingh00) | [Linkedin](https://www.linkedin.com/in/divyanshi-singh-7a28b525a/)
